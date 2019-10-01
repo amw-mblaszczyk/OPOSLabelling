@@ -1,0 +1,57 @@
+{
+  "filename" : "D:\\Marek\\Workspaces\\Eclipse\\OPOSMapModule\\MAPS\\mapy.json",
+  "files" : [ {
+    "filename" : "mapa1.png",
+    "id" : -506412368,
+    "file_type" : "png",
+    "region" : "Baltic/Gdansk Bay",
+    "map_type" : "SATELLITE",
+    "projection_type" : "GMERCATOR",
+    "offset" : [ 20, 20, 20, 20 ],
+    "fi_coord" : [ 54.34989, 54.82733 ],
+    "la_coord" : [ 18.423336, 19.654062 ],
+    "zoom" : -1.0,
+    "center_coord" : [ 54.34989, 19.654062 ]
+  }, {
+    "filename" : "mapa2.png",
+    "id" : -505488847,
+    "file_type" : "png",
+    "region" : "Baltic/Gdansk Bay",
+    "map_type" : "ROADMAP",
+    "projection_type" : "GMERCATOR",
+    "offset" : [ 20, 20, 20, 20 ],
+    "fi_coord" : [ 54.34989, 54.82733 ],
+    "la_coord" : [ 18.423336, 19.654062 ],
+    "zoom" : -1.0,
+    "center_coord" : [ 54.34989, 19.654062 ]
+  }, {
+    "filename" : "mapa3.jpg",
+    "id" : -504571030,
+    "file_type" : "jpg",
+    "region" : "Baltic/Pomeranian Bay",
+    "map_type" : "TERRAIN",
+    "projection_type" : "GMERCATOR",
+    "offset" : [ 20, 20, 20, 20 ],
+    "fi_coord" : [ 54.34989, 54.82733 ],
+    "la_coord" : [ 18.423336, 19.654062 ],
+    "zoom" : -1.0,
+    "center_coord" : [ 54.34989, 19.654062 ]
+  }, {
+    "filename" : "2.png",
+    "id" : 47657581,
+    "file_type" : "PNG",
+    "projection_type" : "GMERCATOR",
+    "offset" : [ 0, 0, 0, 0 ],
+    "zoom" : -1.0
+  }, {
+    "filename" : "3.jpg",
+    "id" : 48575398,
+    "file_type" : "JPG",
+    "region" : "",
+    "map_type" : "ROADMAP",
+    "projection_type" : "GMERCATOR",
+    "offset" : [ 0, 0, 6012, 4524 ],
+    "zoom" : -1.0,
+    "center_coord" : [ 55.12345504760742, 18.123456954956055 ]
+  } ]
+}
