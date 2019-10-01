@@ -312,7 +312,7 @@ public class OPOSLabelingGUI {
 		listRegions = new JList<LabelRegion>(regionsListModel);
 		listRegions.addListSelectionListener(new ListSelectionListener() {
 			public void valueChanged(ListSelectionEvent arg0) {
-				//System.out.println("Selection changed");
+				//System.out.println("Selection changed 1");
 				listRegionsSelectionChanged();
 			}
 		});
